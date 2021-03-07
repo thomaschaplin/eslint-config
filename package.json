@@ -1,19 +1,27 @@
 {
   "name": "@thomaschaplin/eslint-config",
   "version": "1.0.0",
-  "description": "eslint config",
+  "description": "Thomas Chaplin's eslint config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "www"
+    "url": "https://github.com/thomaschaplin/eslint-config"
   },
+  "bugs": {
+    "url": "https://github.com/thomaschaplin/eslint-config/issues"
+  },
+  "homepage": "https://github.com/thomaschaplin/eslint-config#readme",
   "keywords": [
+    "thomaschaplin",
+    "thomas",
+    "chaplin",
+    "eslint-config",
     "eslint"
   ],
-  "author": "Thomas Chaplin",
+  "author": "Thomas Chaplin <thomaschaplin@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "eslint-plugin-import": "^2.22.1"
