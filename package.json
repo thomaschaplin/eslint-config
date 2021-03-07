@@ -1,0 +1,24 @@
+{
+  "name": "@thomaschaplin/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Thomas Chaplin",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
