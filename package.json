@@ -1,6 +1,6 @@
 {
   "name": "@thomaschaplin/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Thomas Chaplin's eslint config",
   "main": "index.js",
   "scripts": {
